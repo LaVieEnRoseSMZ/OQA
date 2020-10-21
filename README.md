@@ -4,11 +4,16 @@
 If you find our code useful for your research, please consider citing:
 
 @article{shen2020once,
-  title={Once Quantized for All: Progressively Searching for Quantized Efficient Models},
-  author={Shen, Mingzhu and Liang, Feng and Li, Chuming and Lin, Chen and Sun, Ming and Yan, Junjie and Ouyang, Wanli},
-  journal={arXiv preprint arXiv:2010.04354},
-  year={2020}
-}
+    
+    title={Once Quantized for All: Progressively Searching for Quantized Efficient Models},
+    
+    author={Shen, Mingzhu and Liang, Feng and Li, Chuming and Lin, Chen and Sun, Ming and Yan, Junjie and Ouyang, Wanli},
+    
+    journal={arXiv preprint arXiv:2010.04354},
+  
+    year={2020}
+    
+    }
 
 ## Statement
 
